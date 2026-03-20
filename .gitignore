@@ -11,6 +11,4 @@ obj/
 
 compose.yml
 
-Dockerfile
-
 .env
