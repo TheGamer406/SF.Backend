@@ -6,9 +6,6 @@ obj/
 # Secrets locales
 **/appsettings.Development.json
 
-# Docker
-.dockerignore
-
 compose.yml
 
 .env
