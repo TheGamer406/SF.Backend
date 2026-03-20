@@ -13,3 +13,4 @@ compose.yml
 
 Dockerfile
 
+.env
